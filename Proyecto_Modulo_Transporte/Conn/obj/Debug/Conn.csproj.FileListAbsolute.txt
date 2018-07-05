@@ -1,0 +1,9 @@
+C:\Users\JoseClavijo\source\repos\Proyecto_Modulo_Transporte\Conn\bin\Debug\Conn.dll
+C:\Users\JoseClavijo\source\repos\Proyecto_Modulo_Transporte\Conn\bin\Debug\Conn.pdb
+C:\Users\JoseClavijo\source\repos\Proyecto_Modulo_Transporte\Conn\bin\Debug\Entidades.dll
+C:\Users\JoseClavijo\source\repos\Proyecto_Modulo_Transporte\Conn\bin\Debug\Entidades.pdb
+C:\Users\JoseClavijo\source\repos\Proyecto_Modulo_Transporte\Conn\obj\Debug\Conn.csprojAssemblyReference.cache
+C:\Users\JoseClavijo\source\repos\Proyecto_Modulo_Transporte\Conn\obj\Debug\Conn.csproj.CoreCompileInputs.cache
+C:\Users\JoseClavijo\source\repos\Proyecto_Modulo_Transporte\Conn\obj\Debug\Conn.csproj.CopyComplete
+C:\Users\JoseClavijo\source\repos\Proyecto_Modulo_Transporte\Conn\obj\Debug\Conn.dll
+C:\Users\JoseClavijo\source\repos\Proyecto_Modulo_Transporte\Conn\obj\Debug\Conn.pdb

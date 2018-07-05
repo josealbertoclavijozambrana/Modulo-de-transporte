@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RoleModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Proyecto_Modulo_Transporte" version="2.9.8699.20" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceDefinition">
+  <Startup>
+    <Task commandLine="DiagnosticsPluginLauncher.exe" taskType="background" relativePath="plugins\Diagnostics">
+      <Environment>
+        <Variable name="IsEmulated" value="true" />
+        <Variable name="RdModuleName" value="Diagnostics" />
+        <Variable name="WaRoleType" value="IISWebRole" />
+      </Environment>
+    </Task>
+  </Startup>
+  <Runtime>
+    <EntryPoint>
+      <NetFxEntryPoint assemblyName="Proyecto_Modulo_Transporte.dll" targetFrameworkVersion="v4.0" />
+    </EntryPoint>
+  </Runtime>
+  <Properties>
+    <Property name="TargetFrameworkVersion" value="v4.5.1" />
+    <Property name="RoleType" value="Web" />
+    <Property name="RoleName" value="Proyecto_Modulo_Transporte" />
+    <Property name="ProjectName" value="Proyecto_Modulo_Transporte" />
+    <Property name="Configuration" value="Debug" />
+    <Property name="Platform" value="AnyCPU" />
+    <Property name="SetConfiguration" value="Configuration=Debug" />
+    <Property name="SetPlatform" value="Platform=AnyCPU" />
+    <Property name="RoleTargetFramework" value="v4.5.1" />
+    <Property name="OutputDir" value="C:\Users\JoseClavijo\source\repos\Proyecto_Modulo_Transporte\Proyecto_Modulo_Transporte.Azure\obj\Debug\Proyecto_Modulo_Transporte\" />
+    <Property name="EntryPoint" value="Proyecto_Modulo_Transporte.dll" />
+    <Property name="SourceDir" value="C:\Users\JoseClavijo\source\repos\Proyecto_Modulo_Transporte\Proyecto_Modulo_Transporte\" />
+    <Property name="SitePhysicalPath" value="C:\Users\JoseClavijo\source\repos\Proyecto_Modulo_Transporte\Proyecto_Modulo_Transporte\" />
+    <Property name="TargetRuntimeVersion" value="v4.0" />
+  </Properties>
+  <Sites>
+    <Site name="Web" physicalDirectory="C:\Users\JoseClavijo\source\repos\Proyecto_Modulo_Transporte\Proyecto_Modulo_Transporte\">
+      <Bindings>
+        <Binding name="Endpoint1" endpointName="Endpoint1" />
+      </Bindings>
+    </Site>
+  </Sites>
+</RoleModel>

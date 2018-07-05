@@ -1,0 +1,6 @@
+C:\Users\JoseClavijo\source\repos\Proyecto_Modulo_Transporte\Entidades\bin\Debug\Entidades.dll
+C:\Users\JoseClavijo\source\repos\Proyecto_Modulo_Transporte\Entidades\bin\Debug\Entidades.pdb
+C:\Users\JoseClavijo\source\repos\Proyecto_Modulo_Transporte\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\JoseClavijo\source\repos\Proyecto_Modulo_Transporte\Entidades\obj\Debug\Entidades.dll
+C:\Users\JoseClavijo\source\repos\Proyecto_Modulo_Transporte\Entidades\obj\Debug\Entidades.pdb
+C:\Users\JoseClavijo\source\repos\Proyecto_Modulo_Transporte\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
